@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243382562305",
+    "project_id": "muayadandwaheebproject",
+    "storage_bucket": "muayadandwaheebproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243382562305:android:5bcad3c2722367603fda00",
+        "android_client_info": {
+          "package_name": "com.example.computervision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243382562305-3gmookf6lf0i6mlabucvj4s51al3neat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHM3lzCHSOsfUsJ0BMVQYROrZR-zNMmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243382562305-3gmookf6lf0i6mlabucvj4s51al3neat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
